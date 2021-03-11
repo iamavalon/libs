@@ -1,3 +1,5 @@
+//based on https://github.com/brunomaletta/Biblioteca/blob/master/Codigo/Estruturas/splaytree.cpp
+
 import java.util.*;
 
 public class SplayTree<T> {
