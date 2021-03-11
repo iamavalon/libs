@@ -1,4 +1,5 @@
 //based on https://github.com/brunomaletta/Biblioteca/blob/master/Codigo/Estruturas/splaytree.cpp
+//and other sources on codeforces
 
 import java.util.*;
 
